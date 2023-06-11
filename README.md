@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Entinevely734/Entinevely734/master/wave.gif" width="30px" height="30px" />
 
 ## Technologies
 ![HTML5](https://img.shields.io/static/v1?label=&labelColor=333333&message=HTML&color=E34F26&style=flat&logo=html5&logoColor=white)
