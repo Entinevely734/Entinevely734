@@ -1,5 +1,5 @@
 # Hello world <img src="https://raw.githubusercontent.com/Entinevely734/Entinevely734/master/wave.gif" width="30px" height="30px" />
-My specialty: frontend developer__
+My specialty: frontend developer_
 Моя специальность: frontend разработчик
 ## Technologies / Технологии
 ![HTML5](https://img.shields.io/static/v1?label=&labelColor=333333&message=HTML&color=E34F26&style=flat&logo=html5&logoColor=white)
