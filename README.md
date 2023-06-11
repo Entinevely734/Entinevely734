@@ -8,8 +8,7 @@
 ![WordPress](https://img.shields.io/static/v1?label=&labelColor=505050&message=WordPress&color=21759B&style=flat&logo=wordpress&logoColor=white)
 ## Tools
 ![Win10](https://img.shields.io/static/v1?label=OS&labelColor=505050&message=Windows%2010&color=0078D6&style=flat&logo=windows&logoColor=white)
-![VSCode](https://img.shields.io/static/v1?label=Editor&labelColor=505050&message=VSCode&color=007ACC&style=flat&logo=visualstudiocode&logoColor=white)
-![VSCode](https://img.shields.io/static/v1?label=Editor&labelColor=FFFFFF&message=VSCode&color=007ACC&style=flat&logo=visualstudiocode&logoColor=007ACC)
+![VSCode](https://img.shields.io/static/v1?label=Editor&labelColor=505050&message=VSCode&color=007ACC&style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Figma](https://img.shields.io/static/v1?label=Layout&labelColor=505050&message=Figma&color=F24E1E&style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/static/v1?label=Layout&labelColor=505050&message=Photoshop&color=31A8FF&style=flat&logo=adobephotoshop&logoColor=white)
 <!--
