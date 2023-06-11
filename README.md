@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![HTML5](https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=E34F26&style=flat&logo=html5&logoColor=white)
+
 <!--
 **Entinevely734/Entinevely734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
